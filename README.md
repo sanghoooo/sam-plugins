@@ -21,7 +21,7 @@ Claude Code에서 마켓플레이스를 추가하고 쓸 플러그인을 설치�
 
 | 플러그인 | 설명 | 소스 |
 | --- | --- | --- |
-| `sam-ui` | SAM UI Kit: React + Tailwind CSS 4 대시보드 킷을 프로젝트에 설치하고 그 킷으로 화면을 만듭니다. | [sanghoooo/sam-ui](https://github.com/sanghoooo/sam-ui)의 `plugins/sam-ui` |
+| `sam-ui` | SAM UI: React + Tailwind CSS 4 대시보드 킷을 프로젝트에 설치하고 그 킷으로 화면을 만듭니다. | [sanghoooo/sam-ui](https://github.com/sanghoooo/sam-ui)의 `plugins/sam-ui` |
 
 각 플러그인의 라이선스는 그 소스 저장소를 따릅니다.
 
