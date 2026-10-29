@@ -1,4 +1,4 @@
-# hoo-plugins
+# sam-plugins
 
 sanghoooo의 Claude Code 플러그인 마켓플레이스입니다.
 
@@ -7,15 +7,15 @@ sanghoooo의 Claude Code 플러그인 마켓플레이스입니다.
 Claude Code에서 마켓플레이스를 추가하고 쓸 플러그인을 설치합니다.
 
 ```
-/plugin marketplace add https://github.com/sanghoooo/hoo-plugins.git
-/plugin install sam-ui@hoo-plugins
+/plugin marketplace add https://github.com/sanghoooo/sam-plugins.git
+/plugin install sam-ui@sam-plugins
 ```
 
-터미널에서는 `claude plugin marketplace add https://github.com/sanghoooo/hoo-plugins.git` 후
-`claude plugin install sam-ui@hoo-plugins`입니다. 한 프로젝트에서 팀이 함께 쓰려면 프로젝트 폴더에서 두 명령에
+터미널에서는 `claude plugin marketplace add https://github.com/sanghoooo/sam-plugins.git` 후
+`claude plugin install sam-ui@sam-plugins`입니다. 한 프로젝트에서 팀이 함께 쓰려면 프로젝트 폴더에서 두 명령에
 `--scope project`를 붙여 `.claude/settings.json`에 기록합니다.
 
-업데이트는 `/plugin marketplace update hoo-plugins` 후 `/reload-plugins`입니다.
+업데이트는 `/plugin marketplace update sam-plugins` 후 `/reload-plugins`입니다.
 
 ## 플러그인
 
