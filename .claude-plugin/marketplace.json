@@ -1,0 +1,17 @@
+{
+  "name": "hoo-plugins",
+  "owner": { "name": "sanghoooo" },
+  "description": "sanghoooo's Claude Code plugins.",
+  "plugins": [
+    {
+      "name": "sam-ui",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/sanghoooo/sam-ui.git",
+        "path": "plugins/sam-ui"
+      },
+      "description": "SAM UI Kit: install a React + Tailwind CSS 4 dashboard kit into a project and build screens with it.",
+      "homepage": "https://github.com/sanghoooo/sam-ui"
+    }
+  ]
+}
